@@ -1,0 +1,13 @@
+,MAC-address,ESSID
+20,14:4f:8a:a8:4d:a5,TP-Link_3DE8
+10,44:c3:46:bf:de:e9,Shinkansen_Free_Wi-Fi_App
+131,44:c3:46:bf:de:e9,TP-Link_3DE8
+303,74:9e:af:60:78:c4,DVFU-HOTEL
+319,84:a6:c8:44:cf:3c,DVFU-HOTEL
+7,84:a6:c8:44:cf:3d,DVFU-HOTEL
+8,88:11:96:21:c2:cd,TP-Link_3DE8
+38,9c:ad:97:cd:5f:3b,RT-WiFi_4FD4
+197,da:a1:19:43:cc:d9,DVFU-HOTEL
+205,da:a1:19:43:cc:d9,lolpukkek
+240,da:a1:19:43:cc:d9,kavo
+0,e4:e4:ab:28:a0:e0,DVFU-HOTEL
